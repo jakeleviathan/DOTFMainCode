@@ -1,0 +1,176 @@
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.exe
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.deps.json
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.runtimeconfig.json
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.AssemblyReference.cache
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfoInputs.cache
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfo.cs
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CoreCompileInputs.cache
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\refint\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.genruntimeconfig.cache
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\ref\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CopyComplete
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\mud\SanctuaryMUD\SanctuaryMUD\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.exe
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.deps.json
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.runtimeconfig.json
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.AssemblyReference.cache
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfoInputs.cache
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfo.cs
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CoreCompileInputs.cache
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CopyComplete
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\refint\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.genruntimeconfig.cache
+D:\mud\SanctuaryMUD - Backup - Corpses Rot\SanctuaryMUD\obj\Debug\net7.0\ref\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.exe
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.deps.json
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.runtimeconfig.json
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.AssemblyReference.cache
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfoInputs.cache
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfo.cs
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CoreCompileInputs.cache
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CopyComplete
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\refint\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.genruntimeconfig.cache
+D:\mud\SanctuaryMUD - Backup - Drybone Cove Built\SanctuaryMUD\obj\Debug\net7.0\ref\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.exe
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.deps.json
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.runtimeconfig.json
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\EntityFramework.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.AssemblyReference.cache
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfoInputs.cache
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.AssemblyInfo.cs
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CoreCompileInputs.cache
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.csproj.CopyComplete
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\refint\SanctuaryMUD.dll
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.pdb
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\SanctuaryMUD.genruntimeconfig.cache
+D:\mud\SanctuaryMUD - Backup - Minor Illusion\SanctuaryMUD\obj\Debug\net7.0\ref\SanctuaryMUD.dll
